@@ -1,0 +1,28 @@
+button {
+  border: solid 2px #000;
+  background-color: #FFF;
+  color: #000;
+  width: 100px;
+  height: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 45vh;
+  vertical-align: middle;
+}
+
+button:hover {
+  background-color: #000;
+  color: #FFF;
+}
+
+#div {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100px;
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+}
